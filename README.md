@@ -42,3 +42,6 @@ Utilize o Serial monitor e os botões para enviar caracteres e comandos para a p
 2. Acender os leds endereçáveis WS2812 no padrão do formato númerico, caso seja passado um número no serial monitor;
 3. Acender ou apagar os leds verde e azul apertando os botões 'A' e 'B' da placa.
 4. Apresentar o estado dos leds no monitor SSD1306(Apagados/Acesos).
+
+### Repositório de onde as fontes das letras minúsculas foram selecionadas para o projeto
+### [oled-font-pack](https://github.com/lynniemagoo/oled-font-pack/tree/master?tab=MIT-1-ov-file)
