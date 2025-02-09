@@ -120,7 +120,7 @@ int main()
         if (stdio_usb_connected())
         {
             char c = '\0';
-            // Lê um caractere da UART
+            // Lê um caractere da entrada padrão
             if (scanf("%c", &c) == 1)
             {
                 if (c >= '0' && c <= '9')
